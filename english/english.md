@@ -16,3 +16,7 @@ Games
 Article    
 --------------------------------------------
 - [Peppa Pig](./peppa_pig/peppa_pig.md)
+
+Translation     
+----------------------------------------------
+- [LIT](./translation/LIT/LIT.md)

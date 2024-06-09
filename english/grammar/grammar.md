@@ -10,4 +10,4 @@
 8. [modal verb](./modal_verb.md)
 9. [for用法](./for.md)
 
-[return English note](../README.md)
+[return English note](/README.md)
