@@ -1,5 +1,5 @@
 # english_note
-Record notes for learning English!!    
+Record notes for learning English!    
 
 發音技巧    
 ----------------------------------------
